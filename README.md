@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: 
+[![Twitter](https://imgur.com/XVWizm5.png)](https://twitter.com/tohsin_)
+[![Linkedin](https://imgur.com/PXyIkWx.png)](https://www.linkedin.com/in/tosin-oseni/) 
+[![Github](https://imgur.com/evWgFgB.png)](https://github.com/tohsin) 
+[![Instagram](https://i.imgur.com/M6yBwxS.png)](https://github.com/tohsin) 
