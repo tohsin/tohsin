@@ -20,3 +20,18 @@ Here are some ideas to get you started:
 [![Linkedin](https://imgur.com/PXyIkWx.png)](https://www.linkedin.com/in/tosin-oseni/) 
 [![Github](https://imgur.com/evWgFgB.png)](https://github.com/tohsin) 
 
+## ⚡ GitHub Stats:
+<!--
+[![Tosin Oseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=tohsin&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![Shengjiewang-Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shengjiewang-Jason&show_icons=true&theme=radical&count_private=true)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohsin&langs_count=8&)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohsin&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tsinghua-Space-Robot-Learning-Group&repo=SpaceRobotEnv)](https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceRobotEnv)
