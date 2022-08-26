@@ -22,6 +22,9 @@ SLAM , VISUAL SLAM, STATE ESTIMATION, SAFE RL
 
 
 ## ⚡ GitHub Stats:
+<div align=center>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tohsin&count_private=true&theme=react&bg_color=20232A">
+</div>
 <!--
 [![Tosin Oseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=tohsin&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
