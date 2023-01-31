@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on:
+Active Graph SLAM ( RL + Graph SLAM)
+- MY intresets:
 SLAM , VISUAL SLAM, STATE ESTIMATION, SAFE RL
 - 📫 How to reach me: 
 <h3 align="left">Connect with me:</h3>
